@@ -9,6 +9,6 @@ get updates about the same in real time.
 
 A digital prototype was created using [bubble.is](https://bubble.is/) in order to carry out usability testing for the application. You can view the prototype demo [here](https://youtu.be/JLy0BOBPbq0).
 
-A design specification and usability evaluation report was created. You can view the report [here]().
+A design specification and usability evaluation report was created. You can view the report [here](https://github.com/aapise/StudyBuddy/blob/master/StudyBuddy.pdf).
 
 This project developed for the Human Computer Interaction course at NC State.
