@@ -11,4 +11,4 @@ A digital prototype was created using [bubble.is](https://bubble.is/) in order t
 
 A design specification and usability evaluation report was created. You can view the report [here](https://github.com/aapise/StudyBuddy/blob/master/StudyBuddy.pdf).
 
-This project developed for the Human Computer Interaction course at NC State.
+This project was developed for the Human Computer Interaction course at NC State.
